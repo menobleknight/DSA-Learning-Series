@@ -83,3 +83,14 @@ int main() {
     }
     return 0;
 }
+
+/* Explanation of Code:
+After observation of test cases, following conclusion can be drawn:
+- if started from 1 (head) and n is 5 (odd)
+  - tail = (n+1)/2 = 3
+  - head = n - tail = 2
+- if started from 1 (head) and n is 6 (even)
+  - head == tail 
+  - tail = (n+1)/2 = 3
+  - head = (n+1)/2 = 3
+*/

@@ -65,8 +65,7 @@ This is similar to the 1st game, except Elephant needs to find the total number 
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     ios_base::sync_with_stdio(false); cin.tie(0); cout.tie(0);
     int t,g,i,n,q;
     cin>>t;

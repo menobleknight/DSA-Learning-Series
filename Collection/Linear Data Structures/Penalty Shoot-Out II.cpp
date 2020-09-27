@@ -24,9 +24,9 @@ For each test case, print a single line containing one integer —
 the smallest s such that after s shots, the result of the shoot-out is known.
 
 Constraints
-1 <= T <= 105
-1 <= N <= 105
-S contains only characters '0' and '1' the sum of N over all test cases does not exceed 106
+1 <= T <= 10^5
+1 <= N <= 10^5
+S contains only characters '0' and '1' the sum of N over all test cases does not exceed 10^6
 
 Example Input
 2

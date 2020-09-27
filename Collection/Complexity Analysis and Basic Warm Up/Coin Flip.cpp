@@ -28,7 +28,7 @@ For each game, output one integer denoting the total number of coins showing the
 Constraints
 1 <= T <= 10
 1 <= G <= 20000
-1 <= N <= 109
+1 <= N <= 10^9
 1 <= I <= 2
 1 <= Q <= 2
 
